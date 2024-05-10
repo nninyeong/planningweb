@@ -1,7 +1,3 @@
-.blue {
-    color: var(--main-blue);
-}
-
 /* flexbox를 이용한 화면 배치 */
 /* main .inner {
     height: 100%;
@@ -85,10 +81,4 @@ main {
     color: black;
     font-size: 1.2rem;
     cursor: pointer;
-}
-
-@meida only all and (max-width: 400px) {
-    html {
-        font-size: 9px;
-    }
 }
